@@ -3,4 +3,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/DarkDoorsKing/DoorsCo
 elseif game.PlaceId == 6839171747 then --- In Game
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DarkDoorsKing/DoorsCode/main/main"))()
 end
---Stolen from black king.--
+--Stolen from black king.
